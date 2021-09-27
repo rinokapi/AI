@@ -29,3 +29,5 @@ def bfs(visited, graph, node):
 
 # Driver Code
 bfs(visited, graph, 1)
+
+# 1 4 2 3 5 7 8 10 9 6
