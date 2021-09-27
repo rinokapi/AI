@@ -23,3 +23,14 @@ def dfs(visited, graph, node):
 
 # Driver Code
 dfs(visited, graph, 1)
+
+# 1
+# 4
+# 3
+# 10
+# 9
+# 2
+# 8
+# 7
+# 5
+# 6
